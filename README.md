@@ -1,6 +1,6 @@
   ### 🖥️ Quem sou eu?
 Me chamo Lucas, sou estudante de programação, atualmente cursando Tecnico em desenvolvimento de sistemas. <br>
-
+Criador do canal [youtube.com/codeCaps](https://www.youtube.com/@codecaps)
 <br> <br>
 
 Tecnologias que estudo atualmente 📌
