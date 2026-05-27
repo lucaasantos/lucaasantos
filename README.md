@@ -17,7 +17,7 @@ Building experimental projects involving:
 - autonomous agents
 
 🎥 Creator of:
-https://youtube.com/codeCaps
+https://youtube.com/@codeCaps
 
 ---
 
