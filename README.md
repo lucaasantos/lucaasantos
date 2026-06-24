@@ -2,6 +2,8 @@
 
 Technology Management student focused on Artificial Intelligence, Cognitive Systems, and AI Agents.
 
+https://forms.office.com/Pages/ResponsePage.aspx?id=FZMQpyeX30qXrUhJu2PtywKSGI8BOkNLpI_K_wXCOM9UODA1TDlFMURIR0JIN0NYWVBWMUM5S05CQS4u&origin=Invitation&channel=1
+
 Currently exploring:
 - Python
 - LLM Applications
